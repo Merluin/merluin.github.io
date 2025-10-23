@@ -37,11 +37,11 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-gew",
+        },{id: "post-chatgpt-feels-something",
         
-          title: "Gew",
+          title: "ChatGPT Feels Something.",
         
-        description: "",
+        description: "Testing Moral Reasoning under Synthetic Emotion",
         section: "Posts",
         handler: () => {
           
