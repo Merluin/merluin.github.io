@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-psychopy-sst-template",
+        },{id: "post-gew",
+        
+          title: "Gew",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/GEW/";
+          
+        },
+      },{id: "post-psychopy-sst-template",
         
           title: "Psychopy SST Template",
         
