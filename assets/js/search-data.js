@@ -37,18 +37,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-chatgpt-feels-something",
-        
-          title: "ChatGPT Feels Something.",
-        
-        description: "Testing Moral Reasoning under Synthetic Emotion",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/GEW/";
-          
-        },
-      },{id: "post-psychopy-sst-template",
+        },{id: "post-psychopy-sst-template",
         
           title: "Psychopy SST Template",
         
