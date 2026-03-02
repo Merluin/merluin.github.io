@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-chatgpt-feels-something",
+        },{id: "post-oris-giudizi-professionali-sullo-spostamento-cutaneo-nelle-espressioni-facciali",
+        
+          title: "ORIS: Giudizi professionali sullo spostamento cutaneo nelle espressioni facciali",
+        
+        description: "Raccolta di giudizi esperti sulla direzione e sull’intensità dello spostamento della cute nelle espressioni emotive classiche.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/SKIN/";
+          
+        },
+      },{id: "post-chatgpt-feels-something",
         
           title: "ChatGPT Feels Something.",
         
