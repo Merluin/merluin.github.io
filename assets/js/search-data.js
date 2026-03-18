@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-oris-giudizi-professionali-sullo-spostamento-cutaneo-nelle-espressioni-facciali",
+        },{id: "post-oris-professional-judgements-on-skin-displacement-in-facial-expressions",
+        
+          title: "ORIS: Professional Judgements on Skin Displacement in Facial Expressions",
+        
+        description: "Collection of expert judgements on the direction and intensity of skin displacement in classic emotional expressions.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/SKINENG/";
+          
+        },
+      },{id: "post-oris-giudizi-professionali-sullo-spostamento-cutaneo-nelle-espressioni-facciali",
         
           title: "ORIS: Giudizi professionali sullo spostamento cutaneo nelle espressioni facciali",
         
