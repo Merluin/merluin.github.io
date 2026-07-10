@@ -135,6 +135,13 @@ ninja.data = [{
           section: "News",handler: () => {
               window.location.href = "/news/announcement_3/";
             },},{
+        id: 'social-bluesky',
+        title: 'Bluesky',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://bsky.app/profile/thomasquettier.bsky.social", "_blank");
+        },
+      },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
@@ -153,7 +160,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/Thomas Quettier", "_blank");
+          window.open("https://www.linkedin.com/in/www.linkedin.com/in/thomas-quettier-2162a283", "_blank");
         },
       },{
         id: 'social-orcid',
