@@ -160,14 +160,14 @@ ninja.data = [{
         title: 'ORCID',
         section: 'Socials',
         handler: () => {
-          window.open("https://orcid.org/https://orcid.org/0000-0003-4804-7652", "_blank");
+          window.open("https://orcid.org/0000-0003-4804-7652", "_blank");
         },
       },{
         id: 'social-osf',
         title: 'Open Science Framework',
         section: 'Socials',
         handler: () => {
-          window.open("https://osf.io/https://osf.io/rjm86//", "_blank");
+          window.open("https://osf.io/rjm86/", "_blank");
         },
       },{
         id: 'social-scholar',
@@ -175,13 +175,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://scholar.google.com/citations?user=OcuYHlcAAAAJ", "_blank");
-        },
-      },{
-        id: 'social-telegram',
-        title: 'telegram',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://telegram.me/@tcjq0", "_blank");
         },
       },{
       id: 'light-theme',
