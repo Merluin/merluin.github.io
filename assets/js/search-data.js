@@ -160,7 +160,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/www.linkedin.com/in/thomas-quettier-2162a283", "_blank");
+          window.open("https://www.linkedin.com/in/thomas-quettier-2162a283", "_blank");
         },
       },{
         id: 'social-orcid',
