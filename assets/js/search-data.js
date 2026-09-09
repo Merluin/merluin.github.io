@@ -134,6 +134,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_3/";
+            },},{id: "news-media-coverage",
+          title: 'Media coverage',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_5/";
             },},{
         id: 'social-bluesky',
         title: 'Bluesky',
